@@ -1,0 +1,89 @@
+.pane {
+    -fx-background-color: #8fbc8f;
+}
+#topText{
+	-fx-background-color: #2f4f4f;
+    -fx-background-repeat: no-repeat;
+    -fx-padding: 10;
+}
+#topBox{
+	-fx-padding:50px;
+	-fx-background-color: #2f4f4f;
+	-fx-border-color: #2e8b57;
+	-fx-background-size: 96, 205;
+	-fx-border-width: 10px;
+}
+#bottomTile{
+	-fx-border-color:#2f4f4f;
+	-fx-border-width:10px;
+	-fx-background-color:#2e8b57;	
+}
+#bx{
+	-fx-border-color: #2f4f4f;
+	-fx-background-color: #2e8b57;
+	-fx-border-width: 10px;
+}
+#tc{
+	-fx-border-color:#2f4f4f;
+	-fx-border-width:10px;
+	-fx-background-color:#2e8b57;
+}
+#scn2Top{
+	-fx-padding:50px;
+	-fx-background-color: #2f4f4f;
+	-fx-border-color: #2e8b57;
+	-fx-background-size: 96, 205;
+	-fx-border-width: 10px;
+}
+#scn2TopText{
+	-fx-background-color: #2f4f4f;
+    -fx-background-repeat: no-repeat;
+    -fx-padding: 10;
+}
+#bottomTileForScn3{
+	-fx-border-color:#2f4f4f;
+	-fx-border-width:10px;
+	-fx-background-color:#2e8b57;
+}
+#scn3TopText{
+	-fx-background-color: #2f4f4f;
+    -fx-background-repeat: no-repeat;
+    -fx-padding: 10;
+}
+#scn3Top{
+	-fx-padding:50px;
+	-fx-background-color: #2f4f4f;
+	-fx-border-color: #2e8b57;
+	-fx-background-size: 96, 205;
+	-fx-border-width: 10px;
+}#scn4TopText{
+	-fx-background-color: #2f4f4f;
+    -fx-background-repeat: no-repeat;
+    -fx-padding: 10;
+}
+#scn4Top{
+	-fx-padding:50px;
+	-fx-background-color: #2f4f4f;
+	-fx-border-color: #2e8b57;
+	-fx-background-size: 96, 205;
+	-fx-border-width: 10px;
+}
+#bottomTileForScn4{
+	-fx-border-color:#2f4f4f;
+	-fx-border-width:10px;
+	-fx-background-color:#2e8b57;
+}
+.button{
+	-fx-text-fill: white;
+ 	-fx-font-family: "Arial Narrow";
+	-fx-font-weight: bold;
+	-fx-background-color: linear-gradient(#61a2b1, #2A5058);
+	-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+.button:hover {
+-fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
+
+
+
+
